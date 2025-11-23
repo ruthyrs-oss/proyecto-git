@@ -1,2 +1,1 @@
 Soy Ruthyrs aprendiendo Git.
-ya hice mi primer commit.
