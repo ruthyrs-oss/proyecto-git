@@ -1,1 +1,3 @@
 Soy Ruthyrs aprendiendo Git.
+Mi segundo proceso es pasar todo a GitHub
+
