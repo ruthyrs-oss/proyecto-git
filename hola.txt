@@ -4,5 +4,5 @@ Este es el cambio que quiero ver cuando pase de GitHub a Git
 ¡Ya viné!
 línea de mantenimiento
 línea para merge en conflicto
-LINEA DE LA VERSION MASTER
+LINEA DE LA VERSION FEATURE
 
